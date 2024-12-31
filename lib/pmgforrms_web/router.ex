@@ -18,6 +18,7 @@ defmodule PmgforrmsWeb.Router do
     pipe_through :browser
 
     get "/", PageController, :home
+    get "/why-strive-planner", PageController, :why_strive_planner
   end
 
   # Other scopes may use custom stacks.
