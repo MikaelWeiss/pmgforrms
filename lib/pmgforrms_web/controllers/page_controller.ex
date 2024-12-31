@@ -16,4 +16,14 @@ defmodule PmgforrmsWeb.PageController do
   def faq(conn, _params) do
     render(conn, :faq)
   end
+
+  def blog(conn, _params) do
+    render(conn, :blog)
+  end
+
+  def blog_post(conn, %{"slug" => slug}) do
+    # For now, we'll just pass the slug to the template
+    # In a real app, you'd fetch the blog post from a database
+    render(conn, :blog_post, slug: slug)
+  end
 end

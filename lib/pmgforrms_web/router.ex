@@ -21,6 +21,10 @@ defmodule PmgforrmsWeb.Router do
     get "/why-strive-planner", PageController, :why_strive_planner
     get "/how-it-works", PageController, :how_it_works
     get "/faq", PageController, :faq
+
+    # Blog routes
+    get "/blog", PageController, :blog
+    get "/blog/:slug", PageController, :blog_post
   end
 
   # Other scopes may use custom stacks.
