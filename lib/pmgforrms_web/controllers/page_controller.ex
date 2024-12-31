@@ -17,6 +17,10 @@ defmodule PmgforrmsWeb.PageController do
     render(conn, :faq)
   end
 
+  def download(conn, _params) do
+    render(conn, :download)
+  end
+
   def blog(conn, _params) do
     render(conn, :blog)
   end
