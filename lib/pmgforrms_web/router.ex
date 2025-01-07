@@ -21,7 +21,6 @@ defmodule PmgforrmsWeb.Router do
     get "/why-strive-planner", PageController, :why_strive_planner
     get "/how-it-works", PageController, :how_it_works
     get "/faq", PageController, :faq
-    get "/download", PageController, :download
 
     # Blog routes
     get "/blog", PageController, :blog
