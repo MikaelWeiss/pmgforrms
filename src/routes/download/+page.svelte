@@ -29,7 +29,7 @@
 		<div class="text-center mb-12">
 			<h2 class="text-3xl font-bold text-gray-900 mb-4">Get Strive Planner on the App Store</h2>
 			<p class="text-lg text-gray-600">
-				Join thousands of users who are already living more intentionally
+				Join hundreds of users who are already living more intentionally
 			</p>
 		</div>
 
@@ -168,7 +168,7 @@
 									clip-rule="evenodd"
 								></path>
 							</svg>
-							Basic goal tracking
+							Unlimited Goals
 						</li>
 						<li class="flex items-start">
 							<svg
@@ -182,7 +182,7 @@
 									clip-rule="evenodd"
 								></path>
 							</svg>
-							Calendar integration
+							Unlimited events and tasks
 						</li>
 						<li class="flex items-start">
 							<svg
@@ -196,7 +196,7 @@
 									clip-rule="evenodd"
 								></path>
 							</svg>
-							People management
+							Contacts integration
 						</li>
 					</ul>
 				</div>
@@ -215,7 +215,7 @@
 									clip-rule="evenodd"
 								></path>
 							</svg>
-							Advanced analytics and insights
+							Custom Colors
 						</li>
 						<li class="flex items-start">
 							<svg
@@ -229,7 +229,7 @@
 									clip-rule="evenodd"
 								></path>
 							</svg>
-							AI-powered coaching
+							Calendar Sync
 						</li>
 						<li class="flex items-start">
 							<svg
@@ -243,7 +243,7 @@
 									clip-rule="evenodd"
 								></path>
 							</svg>
-							Family sharing and collaboration
+							Support the creator
 						</li>
 						<li class="flex items-start">
 							<svg
@@ -257,7 +257,7 @@
 									clip-rule="evenodd"
 								></path>
 							</svg>
-							Unlimited goals and projects
+							Maps (coming soon...)
 						</li>
 					</ul>
 				</div>
@@ -275,39 +275,6 @@
 			>
 				Download Strive Planner
 			</a>
-		</div>
-	</div>
-</section>
-
-<section class="py-16 bg-gray-50">
-	<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-		<div class="text-center mb-12">
-			<h2 class="text-3xl font-bold text-gray-900 mb-4">System Requirements</h2>
-		</div>
-
-		<div class="max-w-2xl mx-auto bg-white rounded-lg shadow-lg p-8">
-			<div class="space-y-4">
-				<div class="flex justify-between items-center py-3 border-b border-gray-200">
-					<span class="font-medium text-gray-900">Platform</span>
-					<span class="text-gray-600">iOS</span>
-				</div>
-				<div class="flex justify-between items-center py-3 border-b border-gray-200">
-					<span class="font-medium text-gray-900">Minimum Version</span>
-					<span class="text-gray-600">iOS 16.0 or later</span>
-				</div>
-				<div class="flex justify-between items-center py-3 border-b border-gray-200">
-					<span class="font-medium text-gray-900">Compatible Devices</span>
-					<span class="text-gray-600">iPhone, iPad</span>
-				</div>
-				<div class="flex justify-between items-center py-3 border-b border-gray-200">
-					<span class="font-medium text-gray-900">Size</span>
-					<span class="text-gray-600">Approximately 50 MB</span>
-				</div>
-				<div class="flex justify-between items-center py-3">
-					<span class="font-medium text-gray-900">Languages</span>
-					<span class="text-gray-600">English</span>
-				</div>
-			</div>
 		</div>
 	</div>
 </section>

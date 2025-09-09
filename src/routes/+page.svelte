@@ -163,7 +163,7 @@
 			Ready to Live Intentionally?
 		</h2>
 		<p class="text-xl mb-8 opacity-90">
-			Join thousands of others who are shaping their lives, one day at a time.
+			Join hundreds of others who are shaping their lives, one day at a time.
 		</p>
 		<a href="/download" class="bg-white text-blue-600 px-8 py-4 rounded-lg text-lg font-semibold hover:bg-gray-100 transition-colors inline-block">
 			Download Strive Planner on the App Store
