@@ -1,0 +1,12 @@
+{application,pmgforrms,
+             [{modules,[]},
+              {optional_applications,[]},
+              {applications,[kernel,stdlib,elixir,logger,runtime_tools,
+                             phoenix,phoenix_html,phoenix_live_reload,
+                             phoenix_live_view,phoenix_live_dashboard,esbuild,
+                             tailwind,telemetry_metrics,telemetry_poller,
+                             gettext,jason,dns_cluster,bandit]},
+              {description,"pmgforrms"},
+              {registered,[]},
+              {vsn,"0.1.0"},
+              {mod,{'Elixir.Pmgforrms.Application',[]}}]}.
