@@ -33,7 +33,7 @@
 			</p>
 		</div>
 
-		<div class="grid md:grid-cols-2 gap-12 items-center mb-16">
+		<div class="grid gap-12 items-center mb-16">
 			<div>
 				<h2 class="text-3xl font-bold text-gray-900 mb-6">The Founder's Story</h2>
 				<div class="space-y-4 text-gray-600">
@@ -45,21 +45,12 @@
 					<p>
 						"Having witnessed the structured, purposeful planning that happens during missionary service, 
 						I saw how many individuals struggle to maintain that same intentionality when they return home," 
-						Mikael explains. "They go from having clear goals and daily accountability to navigating civilian life without that same framework."
+						Mikael explains. "They go from having clear goals and daily accountability to navigating life without that same framework."
 					</p>
 					<p>
 						This insight sparked the creation of Strive Planner—an app that would bring the same sense of purpose and structure to post-mission life, 
 						while remaining flexible enough to serve anyone seeking to live more intentionally.
 					</p>
-				</div>
-			</div>
-			<div class="bg-gray-100 rounded-lg p-8 flex items-center justify-center">
-				<div class="text-center text-gray-500">
-					<svg class="w-32 h-32 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-						<path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"></path>
-					</svg>
-					<p>Founder Photo</p>
-					<p class="text-sm">Placeholder for founder image</p>
 				</div>
 			</div>
 		</div>
@@ -116,17 +107,17 @@
 						<h3 class="text-xl font-semibold text-gray-900 mb-4">The Mission Experience</h3>
 						<p class="text-gray-600 mb-4">
 							Missionary service provides a unique environment of structured planning, clear purpose, and daily accountability. 
-							Missionaries use tools like PMG (Preach My Gospel) and Areabook to plan their days, set goals, and track progress.
+							Missionaries use tools like PMG (Preach My Gospel) to plan their days, set goals, and track progress.
 						</p>
 						<p class="text-gray-600">
-							This creates powerful habits of intentionality that many missionaries struggle to maintain when they return to civilian life.
+							This creates powerful habits of intentionality that many missionaries struggle to maintain when they return to post-mission life.
 						</p>
 					</div>
 					<div>
 						<h3 class="text-xl font-semibold text-gray-900 mb-4">The Strive Solution</h3>
 						<p class="text-gray-600 mb-4">
 							Strive Planner bridges this gap by providing similar structure and purpose, but adapted for post-mission life. 
-							We've taken the best elements of mission planning—daily intentions, goal setting, reflection—and made them relevant for everyone.
+							We've taken the best elements of mission planning and made them relevant for everyone.
 						</p>
 						<p class="text-gray-600">
 							The result is an app that feels familiar to returned missionaries while being perfectly suited for anyone seeking intentional living.
@@ -139,7 +130,7 @@
 		<div class="mt-16 text-center">
 			<h2 class="text-3xl font-bold text-gray-900 mb-4">Join Our Community</h2>
 			<p class="text-lg text-gray-600 mb-8 max-w-2xl mx-auto">
-				Thousands of people are already using Strive Planner to live more intentionally. 
+				Hundreds of people are already using Strive Planner to live more intentionally. 
 				Whether you're a returned missionary or simply someone seeking more purpose in daily life, 
 				you'll find a community of like-minded individuals committed to growth and intentionality.
 			</p>
