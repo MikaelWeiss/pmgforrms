@@ -14,7 +14,7 @@
 				</p>
 				<div class="flex space-x-4">
 					<a
-						href="/download"
+						href="https://apps.apple.com/us/app/strive-planner/id6472100413"
 						class="bg-blue-600 text-white px-4 py-2 rounded-lg text-sm font-medium hover:bg-blue-700 transition-colors"
 					>
 						Download on App Store
