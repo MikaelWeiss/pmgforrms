@@ -1,3 +1,14 @@
-# allow crawling everything by default
+# Strive Planner SEO Configuration
 User-agent: *
-Disallow:
+Disallow: /admin/
+Disallow: /private/
+Disallow: /api/
+
+# Allow all other pages
+Allow: /
+
+# Sitemap location
+Sitemap: https://striveplanner.app/sitemap.xml
+
+# Crawl delay (optional)
+Crawl-delay: 1
