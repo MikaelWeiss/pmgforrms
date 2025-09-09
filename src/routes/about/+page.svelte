@@ -3,7 +3,7 @@
 	<meta name="description" content="Learn about Strive Planner's mission, founder story, and philosophy of intentional living. Discover how we help people align daily actions with life goals." />
 	<meta property="og:title" content="About - Strive Planner" />
 	<meta property="og:description" content="Learn about Strive Planner's mission, founder story, and philosophy of intentional living. Discover how we help people align daily actions with life goals." />
-	<link rel="canonical" href="https://striveplanner.app/about" />
+	<link rel="canonical" href="https://pmgforrms.org/about" />
 </svelte:head>
 
 <section class="py-16 bg-gradient-to-br from-blue-50 to-indigo-100">

@@ -3,7 +3,7 @@
 	<meta name="description" content="Read real stories from users who have transformed their lives with Strive Planner. Discover how returned missionaries and others are living more intentionally." />
 	<meta property="og:title" content="Testimonials - Strive Planner" />
 	<meta property="og:description" content="Read real stories from users who have transformed their lives with Strive Planner. Discover how returned missionaries and others are living more intentionally." />
-	<link rel="canonical" href="https://striveplanner.app/testimonials" />
+	<link rel="canonical" href="https://pmgforrms.org/testimonials" />
 </svelte:head>
 
 <section class="py-16 bg-gradient-to-br from-blue-50 to-indigo-100">

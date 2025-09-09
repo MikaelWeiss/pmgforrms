@@ -3,7 +3,7 @@
 	<meta name="description" content="Discover who Strive Planner is perfect for: returned missionaries, young professionals, families, and anyone seeking intentional living through daily planning." />
 	<meta property="og:title" content="For Whom - Strive Planner" />
 	<meta property="og:description" content="Discover who Strive Planner is perfect for: returned missionaries, young professionals, families, and anyone seeking intentional living through daily planning." />
-	<link rel="canonical" href="https://striveplanner.app/for-whom" />
+	<link rel="canonical" href="https://pmgforrms.org/for-whom" />
 </svelte:head>
 
 <section class="py-16 bg-gradient-to-br from-blue-50 to-indigo-100">

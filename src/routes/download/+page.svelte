@@ -9,7 +9,7 @@
 		property="og:description"
 		content="Download Strive Planner on the App Store and start living intentionally. The perfect app for returned missionaries and anyone seeking purposeful daily planning."
 	/>
-	<link rel="canonical" href="https://striveplanner.app/download" />
+	<link rel="canonical" href="https://pmgforrms.org/download" />
 </svelte:head>
 
 <section class="py-16 bg-gradient-to-br from-blue-50 to-indigo-100">

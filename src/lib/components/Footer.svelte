@@ -53,11 +53,6 @@
 							>Testimonials</a
 						>
 					</li>
-					<li>
-						<a href="/privacy" class="text-gray-300 hover:text-white transition-colors"
-							>Privacy Policy</a
-						>
-					</li>
 				</ul>
 			</div>
 		</div>

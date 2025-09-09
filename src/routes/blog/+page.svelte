@@ -3,7 +3,7 @@
 	<meta name="description" content="Read articles about intentional living, goal setting, and personal development from the Strive Planner team. Learn how to align daily actions with your values and live with purpose." />
 	<meta property="og:title" content="Blog - Strive Planner" />
 	<meta property="og:description" content="Read articles about intentional living, goal setting, and personal development from the Strive Planner team. Learn how to align daily actions with your values and live with purpose." />
-	<link rel="canonical" href="https://striveplanner.app/blog" />
+	<link rel="canonical" href="https://pmgforrms.org/blog" />
 </svelte:head>
 
 <section class="py-16 bg-gradient-to-br from-blue-50 to-indigo-100">

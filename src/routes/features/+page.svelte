@@ -3,7 +3,7 @@
 	<meta name="description" content="Discover Strive Planner's powerful features: daily intentions, goal tracking, calendar integration, and more. The perfect intentional living app for returned missionaries." />
 	<meta property="og:title" content="Features - Strive Planner" />
 	<meta property="og:description" content="Discover Strive Planner's powerful features: daily intentions, goal tracking, calendar integration, and more. The perfect intentional living app for returned missionaries." />
-	<link rel="canonical" href="https://striveplanner.app/features" />
+	<link rel="canonical" href="https://pmgforrms.org/features" />
 </svelte:head>
 
 <section class="py-16 bg-gradient-to-br from-blue-50 to-indigo-100">

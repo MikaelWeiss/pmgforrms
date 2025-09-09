@@ -3,7 +3,7 @@
 	<meta name="description" content="Shape your life, one day at a time. The planning app for returned missionaries and anyone seeking intentional living through daily goals and reflections." />
 	<meta property="og:title" content="Strive Planner - Intentional Living App" />
 	<meta property="og:description" content="Shape your life, one day at a time. The planning app for people who want to live on purpose, not just be productive." />
-	<link rel="canonical" href="https://striveplanner.app" />
+	<link rel="canonical" href="https://pmgforrms.org" />
 </svelte:head>
 
 <section class="relative bg-gradient-to-br from-blue-50 to-indigo-100">

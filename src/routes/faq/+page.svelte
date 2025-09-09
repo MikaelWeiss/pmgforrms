@@ -3,7 +3,7 @@
 	<meta name="description" content="Find answers to common questions about Strive Planner. Learn about features, pricing, compatibility, and how our app helps returned missionaries and others live intentionally." />
 	<meta property="og:title" content="FAQ - Strive Planner" />
 	<meta property="og:description" content="Find answers to common questions about Strive Planner. Learn about features, pricing, compatibility, and how our app helps returned missionaries and others live intentionally." />
-	<link rel="canonical" href="https://striveplanner.app/faq" />
+	<link rel="canonical" href="https://pmgforrms.org/faq" />
 </svelte:head>
 
 <section class="py-16 bg-gradient-to-br from-blue-50 to-indigo-100">
