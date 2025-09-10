@@ -24,11 +24,11 @@
 			<div class="bg-gray-50 rounded-lg p-6">
 				<div class="flex items-center mb-4">
 					<div class="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mr-4">
-						<span class="text-blue-600 font-bold">JD</span>
+						<span class="text-blue-600 font-bold">MW</span>
 					</div>
 					<div>
-						<h3 class="font-semibold text-gray-900">John Davis</h3>
-						<p class="text-sm text-gray-600">Returned Missionary</p>
+						<h3 class="font-semibold text-gray-900">Mikael Weiss</h3>
+						<p class="text-sm text-gray-600">Kansas Wichita Mission</p>
 					</div>
 				</div>
 				<div class="flex mb-4">
@@ -49,18 +49,18 @@
 					</svg>
 				</div>
 				<p class="text-gray-600">
-					"Coming home from my mission, I felt lost without the structure and purpose I had grown accustomed to. Strive Planner has been exactly what I needed to maintain that same level of intentionality in my civilian life. The daily intentions help me start each day with purpose."
+					"Strive Planner has helped me stay focused on my goals and keep the habits I developed as a missionary."
 				</p>
 			</div>
 
 			<div class="bg-gray-50 rounded-lg p-6">
 				<div class="flex items-center mb-4">
 					<div class="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mr-4">
-						<span class="text-green-600 font-bold">SM</span>
+						<span class="text-green-600 font-bold">HT</span>
 					</div>
 					<div>
-						<h3 class="font-semibold text-gray-900">Sarah Martinez</h3>
-						<p class="text-sm text-gray-600">Young Professional</p>
+						<h3 class="font-semibold text-gray-900">Hannah Terrell</h3>
+						<p class="text-sm text-gray-600">Alpine German-Speaking Mission</p>
 					</div>
 				</div>
 				<div class="flex mb-4">
@@ -81,135 +81,7 @@
 					</svg>
 				</div>
 				<p class="text-gray-600">
-					"As a young professional, I was struggling to balance my career ambitions with my personal values. Strive Planner has helped me align my daily work with my broader life goals. The calendar integration is seamless, and I love how it helps me reflect on my progress."
-				</p>
-			</div>
-
-			<div class="bg-gray-50 rounded-lg p-6">
-				<div class="flex items-center mb-4">
-					<div class="w-12 h-12 bg-purple-100 rounded-full flex items-center justify-center mr-4">
-						<span class="text-purple-600 font-bold">RT</span>
-					</div>
-					<div>
-						<h3 class="font-semibold text-gray-900">Rachel Thompson</h3>
-						<p class="text-sm text-gray-600">Mother of Three</p>
-					</div>
-				</div>
-				<div class="flex mb-4">
-					<svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
-						<path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
-					</svg>
-					<svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
-						<path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
-					</svg>
-					<svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
-						<path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
-					</svg>
-					<svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
-						<path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
-					</svg>
-					<svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
-						<path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
-					</svg>
-				</div>
-				<p class="text-gray-600">
-					"Our family has been using Strive Planner for six months, and it's transformed how we coordinate our lives. The people management feature helps us stay connected with relatives, and the goal tracking keeps us focused on what matters most as a family. It's been a game-changer!"
-				</p>
-			</div>
-
-			<div class="bg-gray-50 rounded-lg p-6">
-				<div class="flex items-center mb-4">
-					<div class="w-12 h-12 bg-orange-100 rounded-full flex items-center justify-center mr-4">
-						<span class="text-orange-600 font-bold">MJ</span>
-					</div>
-					<div>
-						<h3 class="font-semibold text-gray-900">Michael Johnson</h3>
-						<p class="text-sm text-gray-600">Returned Missionary</p>
-					</div>
-				</div>
-				<div class="flex mb-4">
-					<svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
-						<path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
-					</svg>
-					<svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
-						<path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
-					</svg>
-					<svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
-						<path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
-					</svg>
-					<svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
-						<path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
-					</svg>
-					<svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
-						<path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
-					</svg>
-				</div>
-				<p class="text-gray-600">
-					"I was skeptical at first, but Strive Planner really delivers. The evening reflection feature has helped me process my day and prepare for tomorrow in a way that reminds me of my nightly planning as a missionary. It's helped me maintain spiritual growth post-mission."
-				</p>
-			</div>
-
-			<div class="bg-gray-50 rounded-lg p-6">
-				<div class="flex items-center mb-4">
-					<div class="w-12 h-12 bg-pink-100 rounded-full flex items-center justify-center mr-4">
-						<span class="text-pink-600 font-bold">EB</span>
-					</div>
-					<div>
-						<h3 class="font-semibold text-gray-900">Emily Brown</h3>
-						<p class="text-sm text-gray-600">College Student</p>
-					</div>
-				</div>
-				<div class="flex mb-4">
-					<svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
-						<path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
-					</svg>
-					<svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
-						<path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
-					</svg>
-					<svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
-						<path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
-					</svg>
-					<svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
-						<path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
-					</svg>
-					<svg class="w-5 h-5 text-gray-300" fill="currentColor" viewBox="0 0 20 20">
-						<path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
-					</svg>
-				</div>
-				<p class="text-gray-600">
-					"Balancing studies, work, and social life was overwhelming until I found Strive Planner. The goal tracking helps me stay focused on my academic objectives while the daily intentions keep me grounded. It's exactly what I needed to stay intentional during college."
-				</p>
-			</div>
-
-			<div class="bg-gray-50 rounded-lg p-6">
-				<div class="flex items-center mb-4">
-					<div class="w-12 h-12 bg-indigo-100 rounded-full flex items-center justify-center mr-4">
-						<span class="text-indigo-600 font-bold">DW</span>
-					</div>
-					<div>
-						<h3 class="font-semibold text-gray-900">David Wilson</h3>
-						<p class="text-sm text-gray-600">Small Business Owner</p>
-					</div>
-				</div>
-				<div class="flex mb-4">
-					<svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
-						<path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
-					</svg>
-					<svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
-						<path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
-					</svg>
-					<svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
-						<path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
-					</svg>
-					<svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
-						<path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
-					</svg>
-					<svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
-						<path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
-					</svg>
-				</div>
-				<p class="text-gray-600">
-					"As a small business owner, I was letting work consume my life. Strive Planner has helped me set boundaries and ensure I'm making time for family, health, and personal growth. The visual progress indicators keep me motivated to maintain balance in all areas of life."
+					"Strive Planner has been a great tool for me to stay connected to my mission experience."
 				</p>
 			</div>
 		</div>
@@ -237,11 +109,8 @@
 			We'd love to hear how Strive Planner has helped you live more intentionally.
 		</p>
 		<div class="flex flex-col sm:flex-row gap-4 justify-center">
-			<a href="/download" class="bg-white text-blue-600 px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors">
+			<a href="https://apps.apple.com/us/app/strive-planner/id6472100413" class="bg-white text-blue-600 px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors">
 				Download the App
-			</a>
-			<a href="/about" class="border-2 border-white text-white px-6 py-3 rounded-lg font-semibold hover:bg-white hover:text-blue-600 transition-colors">
-				Contact Us
 			</a>
 		</div>
 	</div>
